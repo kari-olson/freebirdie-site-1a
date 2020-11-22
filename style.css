@@ -563,3 +563,82 @@ form {
 	font-weight: normal;
 	font-style: normal;
 }
+/*
+flexbox {
+	line-height:1.3em;
+	padding-top:7.25em;
+	padding-bottom:6.25em;
+}
+
+.flexbox {
+	display:inline-block;
+	margin:0 auto;
+	padding-bottom:10px;
+}
+
+.flexbox:hover {
+	opacity:0.5;
+	filter:alpha(opacity=50);	
+}
+
+.flex-box {
+  margin: auto;
+  display: flex;
+  flex-shrink: 5;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  border-color: transparent;
+  background-color: white;
+}
+
+.images {
+  justify-content: center;
+  flex: 50%;
+  margin: 3.25em;
+  max-width: 25%;
+  object-fit: cover;
+}
+
+.images img {
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.images {
+  border: transparent;
+  display: inline-block;
+  padding: 15px;
+  transform: rotate(0.25turn);
+  transform: rotate(0.5turn);  
+  transition: all 1s;
+}
+
+.images:hover {
+  transform: scale(1.5) /*rotate(15deg);*/
+}
+
+.scroll-effect {
+  position: relative;
+  height: 90px;
+}
+
+.scroll-effect p {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.hero2 {
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 90px;
+  transition: transform 2s linear;
+}
+
+.hero2:hover {
+  transform: translateX(100%);
+}
