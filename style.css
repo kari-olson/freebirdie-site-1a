@@ -21,6 +21,7 @@ body {
   to {background-color: rgb(20,145,140);}
 }
 
+
 .hero::before {
     background-color: rgba(237,52,3,.67);
     content: '';
@@ -42,6 +43,23 @@ body {
   
 a {text-decoration:none;}
 
+  body { 
+  font: 14px/2 Georgia, serif; 
+}
+
+#page-wrap { 
+  max-width: 500px; 
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+h1, h2 {
+  line-height: 1.2;
+}
+
+p, ul, h1 { 
+  margin: 0 0 1rem 0; 
+}
 
 h1 {
 	font-size:1.6em;
