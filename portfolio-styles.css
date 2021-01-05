@@ -95,11 +95,11 @@ h4 {
 	z-index:10;
 }
 
-#wordmark a {
+#logomark a {
 	position:fixed;
-	width:auto;
-	height:80px;
-	line-height:80px;
+	width:auto;d
+	height:20px;
+	line-height:20px;
 	text-align:center;
 	left:20px;
 	top:10px;
@@ -508,7 +508,7 @@ header {
 	width:96%;
 }
 
-#wordmark {
+#logomark {
 	font-size:1em;
 	margin-left:10px;	
 }
