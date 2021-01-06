@@ -1,12 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
 
-body {
+/*body {
 	background-image:url(https://cdn.glitch.com/934d94a7-00cf-46ee-8151-8616e48c40b6%2Fplaceholder-plain-1-01.jpg?v=1606069968964);
 	background-position:center center;
 	background-attachment:fixed;
 	background-size:cover;
-	background-repeat:no-repeat;*/
+	background-repeat:no-repeat;
 	margin:0 auto;
 	font-family: 'Open Sans', Helvetica, sans-serif;
 	font-weight: 400;
@@ -33,7 +33,7 @@ h2, h3 {
 	font-size:3em;
 	text-align:center;
 	letter-spacing:1px;
-	/*margin-left:110px;*/
+	/*margin-left:110px;
 }
 
 h3 {
@@ -49,7 +49,7 @@ h4 {
 }
 
 
-/***************************REUSABLE*/
+/***************************REUSABLE
 .fl {float:left;}
 .fr {float:right;}
 .clear {clear:both;}
@@ -84,7 +84,7 @@ h4 {
 }
 
 
-/*************************HEADER AND NAV*/
+/*************************HEADER AND NAV
 
 #mainHeader {
 	position:fixed;
@@ -114,7 +114,7 @@ h4 {
 	height:80px;
 	line-height:80px;
 	position:fixed; /*so it sticks to top of browser*/
-	left:0;/*just in case - for IE*/
+	left:0;/*just in case - for IE
 	top:0; 
 	width:100%;
 }
@@ -139,7 +139,7 @@ h4 {
 	text-decoration:overline;
 }
 
-/*************************HOME*/
+/*************************HOME
 
 #home {
 	background-image:https://cdn.glitch.com/8b7aa0d5-a58a-4e0b-ac7b-f9999d3696ce%2FArtboard%201.jpg?v=1609808600170
@@ -175,7 +175,7 @@ h4 {
 }
 
 
-/*************************WORK*/
+/*************************WORK
 
 #work {
 	line-height:1.3em;
@@ -195,7 +195,7 @@ h4 {
 }
 
 
-/*************************ABOUT*/
+/*************************ABOUT
 #about {
 	padding-top:7.25em;
 	padding-bottom:6.25em;
@@ -548,7 +548,5 @@ header {
 
 form {
 	width:100%;
-}
-
-/********END MOBILE*/
-}
+  
+  */
