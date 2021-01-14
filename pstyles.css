@@ -8,7 +8,7 @@ body {
 	background-size:cover;
 	background-repeat:no-repeat;
 	margin:0 auto;
-	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-family: Montserrat', sans-serif;
 	font-weight: 400;
 	font-size:1em;
 }
@@ -18,7 +18,7 @@ a {text-decoration:none;}
 
 h1 {
 	font-size:1.6em;
-	font-family: 'Conv_Porto 400', Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	letter-spacing:1px;
 }
 
@@ -28,7 +28,7 @@ h1 a {
 
 h2, h3 {
 	color:#63C6BF;
-	font-family:'Conv_Porto 400', Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	padding-bottom:30px;
 	font-size:3em;
 	text-align:center;
@@ -42,7 +42,7 @@ h3 {
 }
 
 h4 {
-	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-weight:600;
 	font-size:1em;
 	color:#595757;
@@ -120,6 +120,7 @@ h4 {
 }
 
 #mainNav ul li {
+		font-family: 'Montserrat', sans-serif;
 	display:inline;
 	font-size:1.3em;
 	font-weight:600;
@@ -164,7 +165,7 @@ h4 {
     left: 100%;
     transform: translate(-50%, -50%);
 	text-align:center;
-	font-family: 'Conv_Porto 400', Helvetica, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 #tagline {
@@ -209,6 +210,7 @@ h4 {
 }
 
 #about p {
+	font-family: 'Montserrat', sans-serif;
 	font-size:1.1em;
 	line-height:1.2em;
 	padding-left:20px;
@@ -230,6 +232,8 @@ h4 {
 #contact {
 	padding-top:7.125em;
 	padding-bottom:6.25em;
+  font-family: 'Montserrat', sans-serif;
+
 }
 
 form {
@@ -242,7 +246,7 @@ form {
 		width: 100%;
 		height:30px;
 		margin-bottom:20px;
-		font-family: 'Open Sans', Helvetica, sans-serif;
+		font-family: 'Montserrat', sans-serif;
 		font-size:0.9em;
 		-webkit-border-radius: 4px;
   		-moz-border-radius: 4px;
@@ -252,7 +256,7 @@ form {
 		textarea {
 			width: 100%;
 			height:200px;
-			font-family: 'Open Sans', Helvetica, sans-serif;
+	  	font-family: 'Montserrat', sans-serif;
 			font-size:0.9em;
 			margin-bottom:20px;
 			-webkit-border-radius: 4px;
@@ -261,7 +265,7 @@ form {
 			}
 			
 			#submit {
-				font-family: 'Open Sans', Helvetica, sans-serif;
+				font-family:'Montserrat', sans-serif;
 				font-size:1em;
 				width: 50%;
 				height:40px;
