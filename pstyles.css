@@ -15,6 +15,7 @@ body {
 
 a {text-decoration:none;}
 
+
 @keyframes changes {
   from {background-color: rgb(50,195,180);}
   to {background-color: rgb(20,145,140);}
@@ -37,6 +38,7 @@ a {text-decoration:none;}
     -webkit-transform: translate3d(100%,-100%,0);
     transform: translate3d(100%,-100%,0);/*this was copied from https://www.taoti.com/ website for reference and customization*/
 }
+
 h1 {
 	font-size:1.6em;
 	font-family: 'Montserrat', sans-serif;
@@ -214,7 +216,6 @@ h4 {
 	opacity:0.5;
 	filter:alpha(opacity=50);	
 }
-
 
 /*************************ABOUT*/
 #about {
