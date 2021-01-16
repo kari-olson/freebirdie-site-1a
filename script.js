@@ -4,4 +4,4 @@
 // prints "hi" in the browser's dev tools console
 console.log("hi");
 
-document.body.logomark = "visible";
+document.body = "visible";
