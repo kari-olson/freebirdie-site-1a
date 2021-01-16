@@ -83,7 +83,7 @@ h2, h3 {
 }
 
 h3 {
-	color:#BDDB95;
+  /*	color:#63C6BF;*/
 	font-size:2.5em;
 }
 
@@ -397,7 +397,6 @@ form {
 }
 	
 .objective {
-	color:#FFF;	
 	font-size:50%;
 	margin:0 auto;	
 }
