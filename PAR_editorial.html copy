@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Kari Olson | Package Design and Mechanicals</title>
+    <title>Kari Olson | Public Art Review Magazine Editorial Layout</title>
 
     <!--Icons made by "http://www.flaticon.com/authors/google", licensed by "Creative Commons BY 3.0"-->
 
@@ -77,44 +77,45 @@
       <div id="projectTop"></div>
 
       <section class="project container">
-        <h2>Package Design</h2>
-        <h3>Concept, Design, Print.</h3>
+        <h2>Public Art Review Magazine</h2>
+        <h3>Editorial Layout</h3>
 
         <section class="objective">
+                  <h3> At FORECAST Public Artworks, I worked directly with writers, artists and the editorial team for issue planning and creation. Examples of cover and spread ayout from PAR #33 and #34. “Nowhere” postcard project was printed as set of two and inserted as a spread.2006.</h3>
         </section>
 
         <div class="col33 centred">
           <img
-            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fpackaging-design-natural-web.jpg?v=1610677442760"
-            alt="package design"
+            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2FPAR33-mag-cover-web1.jpg?v=1610045309939"
+            alt="PAR 33 magazine editorial layout design cover"
           />
         </div>
 
         <div class="col33 centred">
           <img
-            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fpackaging-mechanical-orbbox-web.jpg?v=1610676451142"
-            alt="package design"
+            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2FPAR33-mag-contents-web2.jpg?v=1610044370178"
+            alt="PAR 33 magazine editorial layout design"
           />
         </div>
 
         <div class="col33 centred">
           <img
-            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fpackaging-design-orbbox-web.jpg?v=1610676473887"
-            alt="package design"
+            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2FPAR33-mag-contents-web1.jpg?v=1610044378624"
+            alt="PAR 33 magazine editorial layout design"
           />
         </div>
 
         <div class="col33 centred">
           <img
-            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fpackaging-mechanical-brakemode-web.jpg?v=1610676463014"
-            alt="package design"
+            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2FPAR34-mag-contents-web1.jpg?v=1610044363136"
+            alt="PAR 33 magazine editorial layout design"
           />
         </div>
 
         <div class="col33 centred">
           <img
-            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fpackaging-mechanical-sync-web.jpg?v=1610676486009"
-            alt="package design"
+            src="https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2FPAR-mag-contents-web1.jpg?v=1610045326494"
+            alt="PAR 33 magazine editorial layout design digital"
           />
         </div>
 
@@ -125,7 +126,7 @@
         </div>
 
         <div id="topButton">
-          <a href="package_design.html#projectTop">Go to Top</a>
+          <a href="PAR_editorial.html#projectTop">Go to Top</a>
         </div>
 
         <div class="clear"></div>
