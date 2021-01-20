@@ -135,9 +135,9 @@ h4 {
 #mainHeader {
 	position:fixed;
 	width:100%;
-	line-height:80px;
+/*	line-height:80px;
 	z-index:10;
-  height:80px;
+  height:80px;*/
 }
 
 #logomark a {
