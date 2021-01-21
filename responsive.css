@@ -3,49 +3,55 @@
 
 /* xl */
 @media screen and (max-width: 1200px) {
-  .sample-module {
+  .logomark {
     max-width: 1000px;
-    /*background: purple;*/
+    background: gold;
   }
 }
 
+@media screen and (max-width: 1200px) {
+  .pagewrap {
+    max-width: 1000px;
+    background: gold;
+  }
+
 /* l */
 @media screen and (max-width: 1200px) {
-  .media {
+  .pagewrap {
     max-width: 992px;
-    /*background: transparent;*/
+    background: gold;
   }
 }
 
 @media screen and (max-width: 992px) {
-  .media {
+  .pagewrap {
     max-width: 800px;
     font-size: 70%
-    /*background: chartreuse;*/
+    background: gold;
   }
 }
 
 /* m */
 @media screen and (max-width: 768px) {
-  .media {
+  .pagewrap {
     max-width: 600px;
-    /*background: orchid;*/
+    background: gold;
   }
 }
 
 /* s */
 @media screen and (max-width: 576px) {
-  .media {
+  .pagewrap {
     max-width: 400px;
-    /*background: gold;*/
+    background: gold;
   }
 }
 
 /* xs */
 @media screen and (max-width: 480px) {
-  .media {
+  .pagewrap {
     max-width: 300px;
-    /*background: fuchsia;*/
+    background: gold;
     bottom: 1em;
     height: calc(50% - 1em);
   }
@@ -53,8 +59,10 @@
 
 
 @media screen and (min-width: 768px) {
-  .icon-menu {
+  .pagewrap {
     display: none;
+    background: gold;
+
   }
   
   nav ul {

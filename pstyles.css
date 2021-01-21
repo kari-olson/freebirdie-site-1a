@@ -57,19 +57,6 @@ body {
 	font-size:1em;
 }
 
-.img {
-  background-image: url(https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fall%2Bthe%2Bpatterns-09.png?v=1610586699087);
-  background-image: 
-    -webkit-image-set(
-      url(https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fall%2Bthe%2Bpatterns-09.png?v=1610586699087) 1x,
-      url(https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fall%2Bthe%2Bpatterns-09.png?v=1610586699087) 2x,
-    );
-  background-image: 
-    image-set(
-      url(https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fall%2Bthe%2Bpatterns-09.png?v=1610586699087) 1x,
-      url(https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fall%2Bthe%2Bpatterns-09.png?v=1610586699087) 2x,
-    );
-}
 a {text-decoration:none;}
 
 
