@@ -22,6 +22,7 @@
     font-size: 70%
     width: 80%;
     background-image: url(https://cdn.glitch.com/c9bbf94b-7c14-4b19-9f7d-4fd20142b8a2%2Fbanner1-01.png?v=1611271555449);
+    align: center;
   }
 }
 
@@ -29,6 +30,7 @@
 @media screen and (max-width: 768px) {
   #page-wrap {
     max-width: 600px;
+    align: center;
   }
 }
 
@@ -37,6 +39,8 @@
   #page-wrap {
     max-width: 400px;
     /*background: gold;*/
+     align: center;
+
   }
 }
 
@@ -47,6 +51,8 @@
     /*background: fuchsia;*/
     bottom: 1em;
     height: calc(50% - 1em);
+      align: center;
+
   }
 }
 
