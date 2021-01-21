@@ -16,8 +16,12 @@
 
 /* m */
 @media screen and (max-width: 768px) {
-  #logomark a {
-    width: 10000%;
+  h1 {
+	font-size: 80%;
+  max-width: 100%
+  text-align: center;
+        border: 1px solid black;
+
   }
 
 /* s */
