@@ -16,6 +16,31 @@ nav {
   line-height: 50px;
 }
 
+/* ---- NAV NEW ---- */
+
+.nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navBar {
+    display: inline-block;
+    text-align: left;
+    padding: 14px 16px;
+    font-size: 14px;
+}
+
+.navName {
+    position: relative;
+    display: inline-block;
+    padding: 0px 0px;
+    font-size: 14px;
+    top: 0px;
+}
+
+/* --- NAV OG ----- */ 
+
 .nav ul {
     list-style: none;
     padding: 0;
@@ -127,7 +152,7 @@ h4 {
 	margin-left:40px;
 }
 
-#mainNav {
+#navButtons {
 	text-align:right;
 	height:80px;
 	line-height:80px;
@@ -137,7 +162,7 @@ h4 {
 	width:100%;
 }
 
-#mainNav ul li {
+#navButtons ul li {
 		font-family: 'Montserrat', sans-serif;
 	display:inline;
 	font-size:1.3em;
@@ -145,7 +170,7 @@ h4 {
 	margin-right:40px;
 }
 	
-#mainNav ul li a {
+#navButtons ul li a {
 	text-decoration:none;
 	color:#000;
 	padding:0px 4px;
@@ -153,7 +178,7 @@ h4 {
 	display:inline-block;
 }
 
-#mainNav ul li a:hover {
+#navButtons ul li a:hover {
 	color:#63C6BF;
 	text-decoration:overline;
 }
