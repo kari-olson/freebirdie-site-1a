@@ -1,67 +1,51 @@
+
 /* DESKTOP FIRST--             */
-/* start large and scale down  */
 
 /* xl */
 @media screen and (max-width: 1200px) {
-  .logomark {
+  .demo-module {
     max-width: 1000px;
+    background: aquamarine;
   }
 }
-
-@media screen and (max-width: 1200px) {
-  .bgWhite {
-    max-width: 1000px;
-  }
 
 /* l */
-@media screen and (max-width: 1200px) {
-  .bgWhite {
-    max-width: 992px;
-  }
-}
-
 @media screen and (max-width: 992px) {
-  .bgWhite {
-    max-width: 800px;
-    font-size: 70%
+  body {
+    width: 80%;
+    background-image: url(https://cdn.glitch.com/a0622cc4-a1eb-4c5c-bc1c-996d284e7f2b%2Fbackground-temp?v=1609949436600);
   }
-}
 
 /* m */
 @media screen and (max-width: 768px) {
-  .bgWhite {
+  .demo-module {
     max-width: 600px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    height: 50%;
   }
 }
 
 /* s */
 @media screen and (max-width: 576px) {
-  .bgWhite {
-p {
+  .demo-module {
     max-width: 400px;
   }
 }
 
 /* xs */
 @media screen and (max-width: 480px) {
-  .bgWhite {
-    max-width: 300px;
+  .demo-module {
+    max-width: 30px;
     bottom: 1em;
-    height: calc(50% - 1em);
+    align: right;
   }
-  
-  nav ul {
+
+
+@media screen and (min-width: 768px) {
+  #mainNav {
     text-align: right;
     border: 1px solid black;
   }
-
-  nav ul li {
-    display: inline-block;
-    border: none;
-    text-align: center;
-  }
   
-  nav ul li:last-child {
-    border-bottom: none;
-  }
-}
