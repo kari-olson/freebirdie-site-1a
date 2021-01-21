@@ -5,8 +5,6 @@
 @media screen and (max-width: 1200px) {
   .demo-module {
     max-width: 1000px;
-    background: aquamarine;
-  }
 }
 
 /* l */
@@ -18,14 +16,9 @@
 
 /* m */
 @media screen and (max-width: 768px) {
-  .demo-module {
-    max-width: 600px;
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    height: 50%;
+  #logomark a {
+    width: 10000%;
   }
-}
 
 /* s */
 @media screen and (max-width: 576px) {
@@ -43,9 +36,4 @@
   }
 
 
-@media screen and (min-width: 768px) {
-  #mainNav {
-    text-align: right;
-    border: 1px solid black;
-  }
-  
+
