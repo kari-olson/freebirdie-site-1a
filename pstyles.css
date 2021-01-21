@@ -211,16 +211,39 @@ h4 {
 	font-family: 'Montserrat', sans-serif;
 }
 
-#tagline {
-	margin-top:20px;
-	color:#E9EED7;
-	text-shadow:5px 5px 12px #000;
-	font-size:1.8em;
-}
-
 /*************************WORK*/
 
-#work {
+.flex-box {
+  margin: auto;
+  display: flex;
+  flex-shrink: 5;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+ /* padding: 35px
+  border-width: 20px; */
+  border-style: solid;
+  border-color: transparent;
+}
+
+.images {
+  justify-content: center;
+  flex: 50%;
+  margin: 3.25em;
+  max-width: 25%;
+  /*padding: 10px; */
+  object-fit: cover;
+}
+
+.images img {
+  justify-content: center;
+  vertical-align: middle;
+}
+
+/*************************WORK NOT FLEX*/
+
+/*#work {
 	line-height:1.3em;
 	padding-top:7.25em;
 	padding-bottom:6.25em;
@@ -234,7 +257,7 @@ h4 {
 
 #work img:hover {
 	opacity:0.5;
-	filter:alpha(opacity=50);	
+	filter:alpha(opacity=50);*/
 }
 
 /*************************ABOUT*/
