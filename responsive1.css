@@ -3,36 +3,38 @@
 
 /* xl */
 @media screen and (max-width: 1200px) {
-  .sample-module {
+  #page-wrap {
     max-width: 1000px;
   }
 }
 
 /* l */
 @media screen and (max-width: 1200px) {
-  .media {
+  #page-wrap {
     max-width: 992px;
     /*background: transparent;*/
   }
 }
 
 @media screen and (max-width: 992px) {
-  .media {
+  body {
     max-width: 800px;
     font-size: 70%
+    width: 80%;
+    background-image: url(https://cdn.glitch.com/c9bbf94b-7c14-4b19-9f7d-4fd20142b8a2%2Fbanner1-01.png?v=1611271555449);
   }
 }
 
 /* m */
 @media screen and (max-width: 768px) {
-  .media {
+  #page-wrap {
     max-width: 600px;
   }
 }
 
 /* s */
 @media screen and (max-width: 576px) {
-  .media {
+  #page-wrap {
     max-width: 400px;
     /*background: gold;*/
   }
@@ -40,7 +42,7 @@
 
 /* xs */
 @media screen and (max-width: 480px) {
-  .media {
+  #page-wrap {
     max-width: 300px;
     /*background: fuchsia;*/
     bottom: 1em;
@@ -54,18 +56,18 @@
     display: none;
   }
   
-  nav ul {
+  #menu {
     text-align: right;
     border: 1px solid black;
   }
 
-  nav ul li {
+  #menu {
     display: inline-block;
     border: none;
     text-align: center;
   }
   
-  nav ul li:last-child {
+  #menu:last-child {
     border-bottom: none;
   }
 }
