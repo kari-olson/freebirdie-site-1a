@@ -57,6 +57,7 @@
     display: none;
   }
   
+  
   nav ul {
     text-align: right;
     border: 1px solid black;
@@ -71,4 +72,3 @@
   nav ul li:last-child {
     border-bottom: none;
   }
-}
