@@ -4,47 +4,68 @@
 /* xs */
 @media screen and (min-width: 480px) {
   #mainHeader {
-    max-width: 300px;
-    font-size: 50%;
+    max-width: 400px;
   }
 }
 @media screen and (min-width: 480px) {
-  .bgWhite {
-    max-width: 300px;
+  body {
+    max-width: 400px;
   }
 }
+
 
 
 /* s */
 @media screen and (min-width: 576px) {
-  .mainHeader {
+  #mainHeader {
     max-width: 400px;
   }
 }
 
 @media screen and (min-width: 576px) {
-  .page {
+  body {
     max-width: 400px;
   }
 }
  
+
+
 /* m */
 @media screen and (min-width: 768px) {
-  .mainHeader {
+  #mainHeader {
+    max-width: 600px;
+  }
+}
+@media screen and (min-width: 768px) {
+  body {
     max-width: 600px;
   }
 }
  
+
+
 /* l */
 @media screen and (min-width: 992px) {
-  .mainHeader {
+  #mainHeader {
     max-width: 800px;
   }
 }
- 
+@media screen and (min-width: 992px) {
+  body {
+    max-width: 800px;
+  }
+}
+  
+
+
 /* xl */
 @media screen and (min-width: 1200px) {
-  .mainHeader {
+  #mainHeader {
+    max-width: 1000px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  body {
     max-width: 1000px;
   }
 }
