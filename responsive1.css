@@ -1,0 +1,51 @@
+/* MOBILE FIRST--                                  */
+/* start with smallest screen size and get bigger  */
+
+/* xs */
+@media screen and (min-width: 480px) {
+  #mainHeader {
+    max-width: 300px;
+    font-size: 50%;
+  }
+}
+@media screen and (min-width: 480px) {
+  .bgWhite {
+    max-width: 300px;
+  }
+}
+
+
+/* s */
+@media screen and (min-width: 576px) {
+  .mainHeader {
+    max-width: 400px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .page {
+    max-width: 400px;
+  }
+}
+ 
+/* m */
+@media screen and (min-width: 768px) {
+  .mainHeader {
+    max-width: 600px;
+  }
+}
+ 
+/* l */
+@media screen and (min-width: 992px) {
+  .mainHeader {
+    max-width: 800px;
+  }
+}
+ 
+/* xl */
+@media screen and (min-width: 1200px) {
+  .mainHeader {
+    max-width: 1000px;
+  }
+}
+ 
