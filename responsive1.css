@@ -10,9 +10,12 @@
 @media screen and (min-width: 480px) {
   body {
     max-width: 400px;
+    background-image: url(https://cdn.glitch.com/c9bbf94b-7c14-4b19-9f7d-4fd20142b8a2%2Fbanner1-01.png?v=1611271555449);
+    <div id="logomark" img src="https://cdn.glitch.com/c9bbf94b-7c14-4b19-9f7d-4fd20142b8a2%2Ffblogo-55x-1.png?v=1611271042023" alt="free birdie logo"/>
+</div>
+
   }
 }
-
 
 
 /* s */
@@ -69,4 +72,20 @@
     max-width: 1000px;
   }
 }
+
+  
+  #menu {
+    text-align: right;
+    border: 1px solid black;
+  }
+
+  #menu {
+    display: inline-block;
+    border: none;
+    text-align: center;
+  }
+  
+  #menu:last-child {
+    border-bottom: none;
+  }
  

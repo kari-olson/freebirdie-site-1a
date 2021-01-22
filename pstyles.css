@@ -229,9 +229,9 @@ h4 {
 
 .images {
   justify-content: center;
-  flex: 50%;
+  flex: 25%;
   margin: 3.25em;
-  max-width: 25%;
+  max-width: 100%;
   /*padding: 10px; */
   object-fit: cover;
 }
